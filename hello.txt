@@ -7,3 +7,4 @@ Changes in f1 after rebase
 This is feature #2
 Master changes
 More master changes
+login feature
